@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Barr</title>
+    <link>/</link>
+    <description>Recent content on James Barr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>James Barr</copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 00:49:28 -0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 23 Dec 2019 00:49:28 -0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&#39;m a Software Engineer currently focused on Android.
+Side Projects Traktr (WIP) • Trying out MvRx, Epoxy, &amp;amp; Coil
+AppDialer • Trying out coroutines &amp;amp; Motif
+Flews • An experiment with Flutter</description>
+    </item>
+    
+    <item>
+      <title>AppDialer</title>
+      <link>/posts/2019/12/appdialer/</link>
+      <pubDate>Mon, 23 Dec 2019 00:49:28 -0800</pubDate>
+      
+      <guid>/posts/2019/12/appdialer/</guid>
+      <description>Backstory On my phone, I have over 300 apps installed. The built in Launcher has some machine learning to try to show me an app it thinks I&#39;ll want to start, but really I need quick &amp;amp; easy access to all of my apps.
+Solution Enter AppDialer. I built this app using a couple of technoligies that I wanted to try out: namely Coroutines and Motif.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 23 Dec 2019 00:49:28 -0800</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>Presentations 2018-27-07 • Scaling UI • Lunch &amp;amp; Learn @ Square (San Francisco, CA)
+2015-04-10 • It&#39;s Time to Develop a Watchface • Droidcon (Montreal, Canada)</description>
+    </item>
+    
+    <item>
+      <title>How to Ship an App Rewrite Without Risking Your Entire Business</title>
+      <link>/posts/2019/01/how-to-ship-an-app-rewrite-without-risking-your-entire-business/</link>
+      <pubDate>Thu, 03 Jan 2019 12:00:00 -0800</pubDate>
+      
+      <guid>/posts/2019/01/how-to-ship-an-app-rewrite-without-risking-your-entire-business/</guid>
+      <description>Posted on the Uber Eng Blog</description>
+    </item>
+    
+    <item>
+      <title>Developing a Watch Face for Android Wear Lollipop</title>
+      <link>/posts/2014/12/developing-a-watch-face-for-android-wear-lollipop/</link>
+      <pubDate>Wed, 10 Dec 2014 12:00:00 -0800</pubDate>
+      
+      <guid>/posts/2014/12/developing-a-watch-face-for-android-wear-lollipop/</guid>
+      <description>Posted on the Two Toasters Blog</description>
+    </item>
+    
+    <item>
+      <title>Developing a Watch Face for Android Wear</title>
+      <link>/posts/2014/07/developing-a-watch-face-for-android-wear/</link>
+      <pubDate>Fri, 18 Jul 2014 12:00:00 -0800</pubDate>
+      
+      <guid>/posts/2014/07/developing-a-watch-face-for-android-wear/</guid>
+      <description>Posted on the Two Toasters Blog</description>
+    </item>
+    
+    <item>
+      <title>Testing Apps Dependent On Private Repos</title>
+      <link>/posts/2014/06/testing-apps-dependent-on-private-repos/</link>
+      <pubDate>Fri, 06 Jun 2014 12:00:00 -0800</pubDate>
+      
+      <guid>/posts/2014/06/testing-apps-dependent-on-private-repos/</guid>
+      <description>Posted on the Two Toasters Blog</description>
+    </item>
+    
+    <item>
+      <title>Customizing Your Build with Gradle</title>
+      <link>/posts/2014/03/customizing-your-build-with-gradle/</link>
+      <pubDate>Fri, 28 Mar 2014 12:00:00 -0800</pubDate>
+      
+      <guid>/posts/2014/03/customizing-your-build-with-gradle/</guid>
+      <description>Posted on the Two Toasters Blog</description>
+    </item>
+    
+  </channel>
+</rss>
